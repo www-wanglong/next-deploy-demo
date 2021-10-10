@@ -16,7 +16,7 @@ import {
   CustomInput,
   Label
 } from "reactstrap";
-import { useState } from 'react'
+import { useState } from 'react';
 
 export default function Home() {
   const [visible, setVisible] = useState(false)
